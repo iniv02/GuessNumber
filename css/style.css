@@ -74,7 +74,7 @@ header a h1{
 }
 
 .container form input:focus{
-    box-shadow: inset rgba(0, 0, 0, 0.1);
+    box-shadow: inset rgba(8, 7, 7, 0.1);
 }
 
 .container form button{
